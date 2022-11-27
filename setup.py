@@ -8,4 +8,5 @@ setup(
     author='Michael März',
     description='Some programming projects I have been working on',
     url='https://github.com/michi1248/Code-Projects',
+    requires='requirements.txt',
 )
