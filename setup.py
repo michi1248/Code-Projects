@@ -7,6 +7,6 @@ setup(
     packages=find_packages(),
     author='Michael März',
     description='Some programming projects I have been working on',
-    install_requires = ['numpy','random','turtle'],
+    install_requires = ['numpy','turtle'],
     url='https://github.com/michi1248/Code-Projects',
 )
